@@ -9,7 +9,7 @@ The first test case that I ran using Twitters API and my developer account was t
 
 
 ## Second Test Case
-The second test cast that I ran was through Twitters Postman tool. 
+The second test cast that I ran was through Twitters Postman tool. The first step was to load Twitter API v2 postman collection into my environment. I had to create an account in postman, which then loaded in this API for me. For this test case, I decided to pull liked Tweets from a specific user. I navigated to the likes folder and then `GET Liked Tweets`. After this tab was opened in my application, I had to make sure that when I made a GET request like this, it would be authenticated. This required me to go to the authentication tab and enter in my Bearer Token, which is located in the Developer Portal on Twitter. After this was done, I had to decide who I wanted to pull liked tweets from. For this example, I used Tesla. Under the Params tab, scroll down to the path variables and next to id, enter the userID, or value, for Tesla here. You can again get this ID through the website I mentioned in my previous test case. Scroll back up and decided what parameters you want to display in the output. I selected only the user fields for this example and set the max_results to 10. Now we can hit send and should see our results below our selected fields. It is listed in a JSON format and can be downloaded by going to Save Response and then Save to a file. This is a simple example of how this tool works but also displays the power of it. 
 
 
 ### Layout of Postman Web Application
