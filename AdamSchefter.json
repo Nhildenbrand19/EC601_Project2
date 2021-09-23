@@ -1,0 +1,3051 @@
+{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 23 14:04:19 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 273283549,
+                "id_str": "273283549",
+                "indices": [
+                    0,
+                    14
+                ],
+                "name": "Josh Charles",
+                "screen_name": "MrJoshCharles"
+            }
+        ]
+    },
+    "favorite_count": 6,
+    "favorited": false,
+    "geo": null,
+    "id": 1441040736443580416,
+    "id_str": "1441040736443580416",
+    "in_reply_to_screen_name": "MrJoshCharles",
+    "in_reply_to_status_id": 1441035554825588736,
+    "in_reply_to_status_id_str": "1441035554825588736",
+    "in_reply_to_user_id": 273283549,
+    "in_reply_to_user_id_str": "273283549",
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 0,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "@MrJoshCharles Hope it happens every week, truly.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 23 03:47:23 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/EExJE6tCy7",
+                "expanded_url": "https://twitter.com/AdamSchefter/status/1440885480216743940/video/1",
+                "id": 1440884180460752901,
+                "id_str": "1440884180460752901",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440884180460752901/pu/img/dpLXY6d_1uitb3I4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440884180460752901/pu/img/dpLXY6d_1uitb3I4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1920
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/EExJE6tCy7"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "additional_media_info": {
+                    "monetizable": false
+                },
+                "display_url": "pic.twitter.com/EExJE6tCy7",
+                "expanded_url": "https://twitter.com/AdamSchefter/status/1440885480216743940/video/1",
+                "id": 1440884180460752901,
+                "id_str": "1440884180460752901",
+                "indices": [
+                    100,
+                    123
+                ],
+                "media_url": "http://pbs.twimg.com/ext_tw_video_thumb/1440884180460752901/pu/img/dpLXY6d_1uitb3I4.jpg",
+                "media_url_https": "https://pbs.twimg.com/ext_tw_video_thumb/1440884180460752901/pu/img/dpLXY6d_1uitb3I4.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1080,
+                        "resize": "fit",
+                        "w": 1920
+                    },
+                    "medium": {
+                        "h": 675,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 383,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "video",
+                "url": "https://t.co/EExJE6tCy7",
+                "video_info": {
+                    "aspect_ratio": [
+                        16,
+                        9
+                    ],
+                    "duration_millis": 129395,
+                    "variants": [
+                        {
+                            "bitrate": 832000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1440884180460752901/pu/vid/640x360/gXY8wBcmP_2XUlLW.mp4?tag=12"
+                        },
+                        {
+                            "content_type": "application/x-mpegURL",
+                            "url": "https://video.twimg.com/ext_tw_video/1440884180460752901/pu/pl/oncO70EvlmOP8RDl.m3u8?tag=12&container=fmp4"
+                        },
+                        {
+                            "bitrate": 256000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1440884180460752901/pu/vid/480x270/5EoAO00qXQsNswkD.mp4?tag=12"
+                        },
+                        {
+                            "bitrate": 2176000,
+                            "content_type": "video/mp4",
+                            "url": "https://video.twimg.com/ext_tw_video/1440884180460752901/pu/vid/1280x720/0qb1J7hUxY2yhD7X.mp4?tag=12"
+                        }
+                    ]
+                }
+            }
+        ]
+    },
+    "favorite_count": 6906,
+    "favorited": false,
+    "geo": null,
+    "id": 1440885480216743940,
+    "id_str": "1440885480216743940",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 349,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Tried to interview Bucs\u2019 WR Mike Evans this week but got rejected because he had other commitments\u2026 https://t.co/EExJE6tCy7",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Thu Sep 23 01:31:38 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 58919137,
+                "id_str": "58919137",
+                "indices": [
+                    3,
+                    14
+                ],
+                "name": "Field Yates",
+                "screen_name": "FieldYates"
+            },
+            {
+                "id": 16332223,
+                "id_str": "16332223",
+                "indices": [
+                    33,
+                    41
+                ],
+                "name": "Las Vegas Raiders",
+                "screen_name": "Raiders"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1440851315823980544,
+    "id_str": "1440851315823980544",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 928,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 22 23:56:44 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1440827433863692292",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/G9RwzkoVy3"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 16332223,
+                    "id_str": "16332223",
+                    "indices": [
+                        17,
+                        25
+                    ],
+                    "name": "Las Vegas Raiders",
+                    "screen_name": "Raiders"
+                }
+            ]
+        },
+        "favorite_count": 13092,
+        "favorited": false,
+        "geo": null,
+        "id": 1440827433863692292,
+        "id_str": "1440827433863692292",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 928,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "This is awesome: @Raiders kicker Daniel Carlson made 4 field goals in Week 2 and won AFC Special Teams Player of th\u2026 https://t.co/G9RwzkoVy3",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Tue Jul 21 20:57:56 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "NFL Insider for ESPN and Co-Host of the Fantasy Focus Football podcast.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "espnmediazone.com/us/bios/field-\u2026",
+                            "expanded_url": "http://espnmediazone.com/us/bios/field-yates/",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/6GT8n9YwUa"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 15188,
+            "follow_request_sent": false,
+            "followers_count": 707090,
+            "following": false,
+            "friends_count": 1511,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 58919137,
+            "id_str": "58919137",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 9634,
+            "location": "Connecticut, USA",
+            "name": "Field Yates",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": true,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/58919137/1563499043",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1346888006272225280/A8uxi2Dr_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1346888006272225280/A8uxi2Dr_normal.jpg",
+            "profile_link_color": "0084B4",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "FieldYates",
+            "statuses_count": 45367,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/6GT8n9YwUa",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @FieldYates: This is awesome: @Raiders kicker Daniel Carlson made 4 field goals in Week 2 and won AFC Special Teams Player of the Week.\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 23:02:07 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "espn.com/nfl/story/_/id\u2026",
+                "expanded_url": "https://www.espn.com/nfl/story/_/id/32258664/tampa-bay-buccaneers-te-rob-gronkowski-clears-air-film-watching-habits",
+                "indices": [
+                    69,
+                    92
+                ],
+                "url": "https://t.co/SAgOGHuwR2"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1329,
+    "favorited": false,
+    "geo": null,
+    "id": 1440813692128415748,
+    "id_str": "1440813692128415748",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 100,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Bucs\u2019 TE Rob Gronkowski clears the air on how much film he watches:\n\nhttps://t.co/SAgOGHuwR2",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 21:35:33 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1440791903239168005",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/T5hKAIjPly"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 4727,
+    "favorited": false,
+    "geo": null,
+    "id": 1440791903239168005,
+    "id_str": "1440791903239168005",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 579,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Bucs' WR Antonio Brown, who was placed on the Reserve/COVID-19 list today, tested positive, per league sources. A p\u2026 https://t.co/T5hKAIjPly",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 21:10:34 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1440785617214840836",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/GxpDKaEGs0"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3359,
+    "favorited": false,
+    "geo": null,
+    "id": 1440785617214840836,
+    "id_str": "1440785617214840836",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 306,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Lions\u2019 LB Jamie Collins, who was held out of practice today, has been the subject of trade discussions between Detr\u2026 https://t.co/GxpDKaEGs0",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 20:54:27 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 30142826,
+                "id_str": "30142826",
+                "indices": [
+                    3,
+                    16
+                ],
+                "name": "Lindsey Thiry",
+                "screen_name": "LindseyThiry"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1440781562996350982,
+    "id_str": "1440781562996350982",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 96,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 22 20:23:40 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1440773814149795843",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/tBFpjfIwqw"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 877,
+        "favorited": false,
+        "geo": null,
+        "id": 1440773814149795843,
+        "id_str": "1440773814149795843",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 96,
+        "retweeted": false,
+        "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+        "text": "Rams offensive coordinator Kevin O'Connell says coach Sean McVay was not at the walk thru today. Per a team officia\u2026 https://t.co/tBFpjfIwqw",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Apr 10 02:57:23 +0000 2009",
+            "default_profile": true,
+            "default_profile_image": false,
+            "description": "ESPN. NFL. LA. IG: LindseyThiry",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "ESPN.com/NFL",
+                            "expanded_url": "http://ESPN.com/NFL",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/nBOcnwZQlR"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 2411,
+            "follow_request_sent": false,
+            "followers_count": 45201,
+            "following": false,
+            "friends_count": 1136,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 30142826,
+            "id_str": "30142826",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 1205,
+            "location": "Los Angeles",
+            "name": "Lindsey Thiry",
+            "notifications": false,
+            "profile_background_color": "C0DEED",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/30142826/1605474698",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1237401675947626496/koJFmFRM_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1237401675947626496/koJFmFRM_normal.jpg",
+            "profile_link_color": "1DA1F2",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "LindseyThiry",
+            "statuses_count": 41267,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/nBOcnwZQlR",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @LindseyThiry: Rams offensive coordinator Kevin O'Connell says coach Sean McVay was not at the walk thru today. Per a team official, McV\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 20:39:13 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 6891,
+    "favorited": false,
+    "geo": null,
+    "id": 1440777727997460486,
+    "id_str": "1440777727997460486",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 534,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "After signing with the Jets Sept. 14 and taking seven snaps on special teams against the Patriots, LB B.J. Goodson has retired.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 20:31:01 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": [
+            {
+                "id": 532465322,
+                "id_str": "532465322",
+                "indices": [
+                    3,
+                    17
+                ],
+                "name": "Rick Gosselin",
+                "screen_name": "RickGosselin9"
+            }
+        ]
+    },
+    "favorite_count": 0,
+    "favorited": false,
+    "geo": null,
+    "id": 1440775666253787137,
+    "id_str": "1440775666253787137",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 1784,
+    "retweeted": false,
+    "retweeted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 22 20:22:56 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1440773631248781320",
+                    "indices": [
+                        117,
+                        140
+                    ],
+                    "url": "https://t.co/GMMB0vd68p"
+                }
+            ],
+            "user_mentions": []
+        },
+        "favorite_count": 14625,
+        "favorited": false,
+        "geo": null,
+        "id": 1440773631248781320,
+        "id_str": "1440773631248781320",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1784,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "There\u2019s a red flag for NFL officiating: through 17 weeks in 2020, there was never a weekend when 200 penalties were\u2026 https://t.co/GMMB0vd68p",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Wed Mar 21 18:48:53 +0000 2012",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "NFL coverage vet of 49 years, 2004 Nunn Award winner, HOF voter, author of the football book, \"Goodfellows: The Champions of St. Ambrose.\u201d Spartan.",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "talkoffamenetwork.com",
+                            "expanded_url": "http://www.talkoffamenetwork.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/QQKZ5Nw2Pc"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 13338,
+            "follow_request_sent": false,
+            "followers_count": 27384,
+            "following": false,
+            "friends_count": 526,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 532465322,
+            "id_str": "532465322",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 875,
+            "location": "Dallas, TX",
+            "name": "Rick Gosselin",
+            "notifications": false,
+            "profile_background_color": "27295E",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/532465322/1476558122",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1924588299/AX202_173E_9_normal.JPG",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1924588299/AX202_173E_9_normal.JPG",
+            "profile_link_color": "19CF86",
+            "profile_sidebar_border_color": "C0DEED",
+            "profile_sidebar_fill_color": "DDEEF6",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "RickGosselin9",
+            "statuses_count": 25300,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/QQKZ5Nw2Pc",
+            "utc_offset": null,
+            "verified": false,
+            "withheld_in_countries": []
+        }
+    },
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "RT @RickGosselin9: There\u2019s a red flag for NFL officiating: through 17 weeks in 2020, there was never a weekend when 200 penalties were asse\u2026",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 20:17:11 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/dpshow/status/\u2026",
+                "expanded_url": "https://twitter.com/dpshow/status/1440764083599519746",
+                "indices": [
+                    10,
+                    33
+                ],
+                "url": "https://t.co/hduXccklvI"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 2300,
+    "favorited": false,
+    "geo": null,
+    "id": 1440772183513436160,
+    "id_str": "1440772183513436160",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 22 19:45:00 +0000 2021",
+        "entities": {
+            "hashtags": [
+                {
+                    "indices": [
+                        40,
+                        47
+                    ],
+                    "text": "Giants"
+                }
+            ],
+            "symbols": [],
+            "urls": [
+                {
+                    "display_url": "twitter.com/i/web/status/1\u2026",
+                    "expanded_url": "https://twitter.com/i/web/status/1440764083599519746",
+                    "indices": [
+                        101,
+                        124
+                    ],
+                    "url": "https://t.co/aZkQeea1mC"
+                }
+            ],
+            "user_mentions": [
+                {
+                    "id": 322826289,
+                    "id_str": "322826289",
+                    "indices": [
+                        18,
+                        31
+                    ],
+                    "name": "Dan Orlovsky",
+                    "screen_name": "danorlovsky7"
+                }
+            ]
+        },
+        "favorite_count": 1094,
+        "favorited": false,
+        "geo": null,
+        "id": 1440764083599519746,
+        "id_str": "1440764083599519746",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "possibly_sensitive": false,
+        "retweet_count": 52,
+        "retweeted": false,
+        "source": "<a href=\"https://studio.twitter.com\" rel=\"nofollow\">Twitter Media Studio</a>",
+        "text": "Did you know that @DanOrlovsky7 married #Giants QB Mike Glennon? \ud83d\ude02\n\nFor Orlovsky's full appearance:\u2026 https://t.co/aZkQeea1mC",
+        "truncated": true,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Thu Aug 13 17:19:41 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "The OFFICIAL Dan Patrick Show twitter @PaulPabst @HiMyNameIsSeton @andrewperloff @brooklynfritzy. Streaming Exclusively on @Peacocktv and @FoxSportsRadio",
+            "entities": {
+                "description": {
+                    "urls": []
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "DanPatrick.com",
+                            "expanded_url": "http://DanPatrick.com",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/Dy4Iz8P09Y"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 4396,
+            "follow_request_sent": false,
+            "followers_count": 438706,
+            "following": false,
+            "friends_count": 1751,
+            "geo_enabled": true,
+            "has_extended_profile": false,
+            "id": 65414320,
+            "id_str": "65414320",
+            "is_translation_enabled": false,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 4316,
+            "location": "Milford, CT",
+            "name": "Dan Patrick Show",
+            "notifications": false,
+            "profile_background_color": "FFFFFF",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/65414320/1598231859",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/1250489308982673413/Ze087HWU_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/1250489308982673413/Ze087HWU_normal.jpg",
+            "profile_link_color": "009999",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "EFEFEF",
+            "profile_text_color": "333333",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "dpshow",
+            "statuses_count": 25456,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/Dy4Iz8P09Y",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1440764083599519746,
+    "quoted_status_id_str": "1440764083599519746",
+    "retweet_count": 97,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Breaking: https://t.co/hduXccklvI",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8571345,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51348,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 19:59:24 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZwKYMQg6e8",
+                "expanded_url": "https://twitter.com/AdamSchefter/status/1440767707205431306/photo/1",
+                "id": 1440767700288999424,
+                "id_str": "1440767700288999424",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/E_6ilwOVEAATSS8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E_6ilwOVEAATSS8.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1268,
+                        "resize": "fit",
+                        "w": 1716
+                    },
+                    "medium": {
+                        "h": 887,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZwKYMQg6e8"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/ZwKYMQg6e8",
+                "expanded_url": "https://twitter.com/AdamSchefter/status/1440767707205431306/photo/1",
+                "id": 1440767700288999424,
+                "id_str": "1440767700288999424",
+                "indices": [
+                    57,
+                    80
+                ],
+                "media_url": "http://pbs.twimg.com/media/E_6ilwOVEAATSS8.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E_6ilwOVEAATSS8.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1268,
+                        "resize": "fit",
+                        "w": 1716
+                    },
+                    "medium": {
+                        "h": 887,
+                        "resize": "fit",
+                        "w": 1200
+                    },
+                    "small": {
+                        "h": 502,
+                        "resize": "fit",
+                        "w": 680
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/ZwKYMQg6e8"
+            }
+        ]
+    },
+    "favorite_count": 601,
+    "favorited": false,
+    "geo": null,
+    "id": 1440767707205431306,
+    "id_str": "1440767707205431306",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 79,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Injury report for Thursday night\u2019s Panthers-Texans game: https://t.co/ZwKYMQg6e8",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 19:31:04 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 2191,
+    "favorited": false,
+    "geo": null,
+    "id": 1440760579308736513,
+    "id_str": "1440760579308736513",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 216,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Broncos placed outside linebacker Bradley Chubb, who is having ankle surgery, on injured reserve.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 19:15:23 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1440756631000682499",
+                "indices": [
+                    116,
+                    139
+                ],
+                "url": "https://t.co/mQ2tq1bOqg"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1594,
+    "favorited": false,
+    "geo": null,
+    "id": 1440756631000682499,
+    "id_str": "1440756631000682499",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 185,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "San Francisco 49ers have signed RB Chris Thompson and DL Eddie Yarbrough to the team\u2019s practice squad. In order to\u2026 https://t.co/mQ2tq1bOqg",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 17:09:08 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Os3rwMEG3P",
+                "expanded_url": "https://twitter.com/AdamSchefter/status/1440724857310744587/photo/1",
+                "id": 1440724850276896776,
+                "id_str": "1440724850276896776",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/E_57njfVEAgb63z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E_57njfVEAgb63z.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1032,
+                        "resize": "fit",
+                        "w": 828
+                    },
+                    "medium": {
+                        "h": 1032,
+                        "resize": "fit",
+                        "w": 828
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 546
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Os3rwMEG3P"
+            }
+        ],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "extended_entities": {
+        "media": [
+            {
+                "display_url": "pic.twitter.com/Os3rwMEG3P",
+                "expanded_url": "https://twitter.com/AdamSchefter/status/1440724857310744587/photo/1",
+                "id": 1440724850276896776,
+                "id_str": "1440724850276896776",
+                "indices": [
+                    34,
+                    57
+                ],
+                "media_url": "http://pbs.twimg.com/media/E_57njfVEAgb63z.jpg",
+                "media_url_https": "https://pbs.twimg.com/media/E_57njfVEAgb63z.jpg",
+                "sizes": {
+                    "large": {
+                        "h": 1032,
+                        "resize": "fit",
+                        "w": 828
+                    },
+                    "medium": {
+                        "h": 1032,
+                        "resize": "fit",
+                        "w": 828
+                    },
+                    "small": {
+                        "h": 680,
+                        "resize": "fit",
+                        "w": 546
+                    },
+                    "thumb": {
+                        "h": 150,
+                        "resize": "crop",
+                        "w": 150
+                    }
+                },
+                "type": "photo",
+                "url": "https://t.co/Os3rwMEG3P"
+            }
+        ]
+    },
+    "favorite_count": 9396,
+    "favorited": false,
+    "geo": null,
+    "id": 1440724857310744587,
+    "id_str": "1440724857310744587",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "retweet_count": 923,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "For Sunday\u2019s game vs. the Browns: https://t.co/Os3rwMEG3P",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 16:57:58 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1440722050658684941",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/rwUZ9TDmAD"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 3811,
+    "favorited": false,
+    "geo": null,
+    "id": 1440722050658684941,
+    "id_str": "1440722050658684941",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 469,
+    "retweeted": false,
+    "source": "<a href=\"https://mobile.twitter.com\" rel=\"nofollow\">Twitter Web App</a>",
+    "text": "Bears' HC Matt Nagy made the announcement that Justin Fields is Chicago's starting QB with the idea to clear out an\u2026 https://t.co/rwUZ9TDmAD",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 16:55:46 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/adamschefter/s\u2026",
+                "expanded_url": "https://twitter.com/adamschefter/status/1440720981119492096",
+                "indices": [
+                    84,
+                    107
+                ],
+                "url": "https://t.co/EEwIIfslKs"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 2003,
+    "favorited": false,
+    "geo": null,
+    "id": 1440721494581997569,
+    "id_str": "1440721494581997569",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 22 16:53:43 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 30207,
+        "favorited": false,
+        "geo": null,
+        "id": 1440720981119492096,
+        "id_str": "1440720981119492096",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 3148,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Matt Nagy announced that Justin Fields will be Chicago\u2019s starting QB against the Browns.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "Instagram.com/AdamSchefter",
+                            "expanded_url": "http://Instagram.com/AdamSchefter",
+                            "indices": [
+                                106,
+                                129
+                            ],
+                            "url": "https://t.co/oz43ix5jZU"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                            "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/OUz4GsIjV2"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 693,
+            "follow_request_sent": false,
+            "followers_count": 8573297,
+            "following": true,
+            "friends_count": 3461,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 51263592,
+            "id_str": "51263592",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 51351,
+            "location": "New York",
+            "name": "Adam Schefter",
+            "notifications": false,
+            "profile_background_color": "2573B8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "16101F",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AdamSchefter",
+            "statuses_count": 56191,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/OUz4GsIjV2",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1440720981119492096,
+    "quoted_status_id_str": "1440720981119492096",
+    "retweet_count": 176,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "And Nick Foles will serve as Chicago\u2019s No. 2 quarterback Sunday against the Browns. https://t.co/EEwIIfslKs",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 16:53:43 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 30207,
+    "favorited": false,
+    "geo": null,
+    "id": 1440720981119492096,
+    "id_str": "1440720981119492096",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 3148,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Matt Nagy announced that Justin Fields will be Chicago\u2019s starting QB against the Browns.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 16:39:57 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 1161,
+    "favorited": false,
+    "geo": null,
+    "id": 1440717513231192067,
+    "id_str": "1440717513231192067",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 113,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Jaguars placed TE James O\u2019Shaughnessy on injured reserve.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 15:56:32 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [],
+        "user_mentions": []
+    },
+    "favorite_count": 8457,
+    "favorited": false,
+    "geo": null,
+    "id": 1440706589258698761,
+    "id_str": "1440706589258698761",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": false,
+    "lang": "en",
+    "place": null,
+    "retweet_count": 957,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "Bucs placed WR Antonio Brown on the Reserve/COVID list.",
+    "truncated": false,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}{
+    "contributors": null,
+    "coordinates": null,
+    "created_at": "Wed Sep 22 15:27:44 +0000 2021",
+    "entities": {
+        "hashtags": [],
+        "symbols": [],
+        "urls": [
+            {
+                "display_url": "twitter.com/i/web/status/1\u2026",
+                "expanded_url": "https://twitter.com/i/web/status/1440699339957936143",
+                "indices": [
+                    117,
+                    140
+                ],
+                "url": "https://t.co/tRAPkY0Ua7"
+            }
+        ],
+        "user_mentions": []
+    },
+    "favorite_count": 1718,
+    "favorited": false,
+    "geo": null,
+    "id": 1440699339957936143,
+    "id_str": "1440699339957936143",
+    "in_reply_to_screen_name": null,
+    "in_reply_to_status_id": null,
+    "in_reply_to_status_id_str": null,
+    "in_reply_to_user_id": null,
+    "in_reply_to_user_id_str": null,
+    "is_quote_status": true,
+    "lang": "en",
+    "place": null,
+    "possibly_sensitive": false,
+    "quoted_status": {
+        "contributors": null,
+        "coordinates": null,
+        "created_at": "Wed Sep 22 15:18:42 +0000 2021",
+        "entities": {
+            "hashtags": [],
+            "symbols": [],
+            "urls": [],
+            "user_mentions": []
+        },
+        "favorite_count": 10220,
+        "favorited": false,
+        "geo": null,
+        "id": 1440697067127541768,
+        "id_str": "1440697067127541768",
+        "in_reply_to_screen_name": null,
+        "in_reply_to_status_id": null,
+        "in_reply_to_status_id_str": null,
+        "in_reply_to_user_id": null,
+        "in_reply_to_user_id_str": null,
+        "is_quote_status": false,
+        "lang": "en",
+        "place": null,
+        "retweet_count": 1223,
+        "retweeted": false,
+        "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+        "text": "Tua Tagovailoa has fractured ribs and is out Sunday.",
+        "truncated": false,
+        "user": {
+            "contributors_enabled": false,
+            "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+            "default_profile": false,
+            "default_profile_image": false,
+            "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+            "entities": {
+                "description": {
+                    "urls": [
+                        {
+                            "display_url": "Instagram.com/AdamSchefter",
+                            "expanded_url": "http://Instagram.com/AdamSchefter",
+                            "indices": [
+                                106,
+                                129
+                            ],
+                            "url": "https://t.co/oz43ix5jZU"
+                        }
+                    ]
+                },
+                "url": {
+                    "urls": [
+                        {
+                            "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                            "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                            "indices": [
+                                0,
+                                23
+                            ],
+                            "url": "https://t.co/OUz4GsIjV2"
+                        }
+                    ]
+                }
+            },
+            "favourites_count": 693,
+            "follow_request_sent": false,
+            "followers_count": 8573297,
+            "following": true,
+            "friends_count": 3461,
+            "geo_enabled": true,
+            "has_extended_profile": true,
+            "id": 51263592,
+            "id_str": "51263592",
+            "is_translation_enabled": true,
+            "is_translator": false,
+            "lang": null,
+            "listed_count": 51351,
+            "location": "New York",
+            "name": "Adam Schefter",
+            "notifications": false,
+            "profile_background_color": "2573B8",
+            "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+            "profile_background_tile": false,
+            "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+            "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+            "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+            "profile_link_color": "3B94D9",
+            "profile_sidebar_border_color": "FFFFFF",
+            "profile_sidebar_fill_color": "95E8EC",
+            "profile_text_color": "16101F",
+            "profile_use_background_image": true,
+            "protected": false,
+            "screen_name": "AdamSchefter",
+            "statuses_count": 56191,
+            "time_zone": null,
+            "translator_type": "none",
+            "url": "https://t.co/OUz4GsIjV2",
+            "utc_offset": null,
+            "verified": true,
+            "withheld_in_countries": []
+        }
+    },
+    "quoted_status_id": 1440697067127541768,
+    "quoted_status_id_str": "1440697067127541768",
+    "retweet_count": 247,
+    "retweeted": false,
+    "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+    "text": "With Tua Tagovailoa out Sunday vs. the Raiders, Jacoby Brissett will start for the Dolphins and Reid Sinnett will b\u2026 https://t.co/tRAPkY0Ua7",
+    "truncated": true,
+    "user": {
+        "contributors_enabled": false,
+        "created_at": "Fri Jun 26 22:55:28 +0000 2009",
+        "default_profile": false,
+        "default_profile_image": false,
+        "description": "ESPN Senior NFL Insider. \nInterview & Podcast Requests: ESPNPR@espn.com\nHost of the Adam Schefter Podcast\nhttps://t.co/oz43ix5jZU",
+        "entities": {
+            "description": {
+                "urls": [
+                    {
+                        "display_url": "Instagram.com/AdamSchefter",
+                        "expanded_url": "http://Instagram.com/AdamSchefter",
+                        "indices": [
+                            106,
+                            129
+                        ],
+                        "url": "https://t.co/oz43ix5jZU"
+                    }
+                ]
+            },
+            "url": {
+                "urls": [
+                    {
+                        "display_url": "open.spotify.com/show/42oVKqEPu\u2026",
+                        "expanded_url": "https://open.spotify.com/show/42oVKqEPuf4kFZrXCO7Oh9?si=O1I6pHOYRh2FwJ1R0WbMSQ",
+                        "indices": [
+                            0,
+                            23
+                        ],
+                        "url": "https://t.co/OUz4GsIjV2"
+                    }
+                ]
+            }
+        },
+        "favourites_count": 693,
+        "follow_request_sent": false,
+        "followers_count": 8573297,
+        "following": true,
+        "friends_count": 3461,
+        "geo_enabled": true,
+        "has_extended_profile": true,
+        "id": 51263592,
+        "id_str": "51263592",
+        "is_translation_enabled": true,
+        "is_translator": false,
+        "lang": null,
+        "listed_count": 51351,
+        "location": "New York",
+        "name": "Adam Schefter",
+        "notifications": false,
+        "profile_background_color": "2573B8",
+        "profile_background_image_url": "http://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme4/bg.gif",
+        "profile_background_tile": false,
+        "profile_banner_url": "https://pbs.twimg.com/profile_banners/51263592/1466784770",
+        "profile_image_url": "http://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_image_url_https": "https://pbs.twimg.com/profile_images/793924061843914752/ycm8ibEE_normal.jpg",
+        "profile_link_color": "3B94D9",
+        "profile_sidebar_border_color": "FFFFFF",
+        "profile_sidebar_fill_color": "95E8EC",
+        "profile_text_color": "16101F",
+        "profile_use_background_image": true,
+        "protected": false,
+        "screen_name": "AdamSchefter",
+        "statuses_count": 56191,
+        "time_zone": null,
+        "translator_type": "none",
+        "url": "https://t.co/OUz4GsIjV2",
+        "utc_offset": null,
+        "verified": true,
+        "withheld_in_countries": []
+    }
+}
