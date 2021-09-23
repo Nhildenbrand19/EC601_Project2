@@ -1,3 +1,5 @@
+# Code adapted from https://github.com/twitterdev/Twitter-API-v2-sample-code
+
 from requests_oauthlib import OAuth1Session
 import os
 import json
