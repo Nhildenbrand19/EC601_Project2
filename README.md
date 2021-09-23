@@ -26,3 +26,7 @@ The next application I thought of using was to see if I can see when a people tw
 ### Panera By Minute
 ![Panera By Minute](https://user-images.githubusercontent.com/74614080/134581974-24e36101-f007-4dd1-8822-465c4c1680a9.png)
 
+
+## Pull Tweets From Individual
+Another application that we can use Twitters API for is to pull a list of tweets by and individual or company. This can be useful for many applications including companies using it for job screening. I have included the link of where this code was originally from in the .py file above. In this code, the bearer token is required to authenticate access for use of Twitters API. Secondly, we need to specific the user_id of the account that we want to pull tweets from. This is the same process that we used before and need to get the user id from the Twitter username. Next, in `get_params()`, this is where we specific what exactly we want from the tweets that we pull. Do we want the attachments or the author id, or do we want to metrics on the tweet or what time it was created. Next, we are going to authenticate our bearer token and send our request. If successful, we are going to get the data we are looking for. I have changed the code around in `main()` to create a JSON file and write our data to it, close the file and put it in our working directory. This is a much more readable and transferable method than printing out on our terminal window, which is what the previous code did.
+
