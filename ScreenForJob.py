@@ -1,3 +1,5 @@
+# Code adapted from https://github.com/twitterdev/Twitter-API-v2-sample-code
+
 import requests
 import os
 import json
