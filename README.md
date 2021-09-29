@@ -1,4 +1,4 @@
-# EC601_Project2
+# EC601_Project2a
 
 ## Like Tweet From Terminal
 The first test case that I ran using Twitters API and my developer account, was to see if there was a way I could like a specific tweet, without ever having to go on Twitter. While this test case may only be used by a handful of individuals, it allowed me to see how the API worked, along with just how powerful this tool is. This involved using python code and I have attached the open source code that I used, named `LikeTweetFromTerminal.py` to this GitHub project for reference. I used an adaptation of code from Twitters Developers but had to trouble shoot many issues that I ran into. First, making sure that you have an authorized API key and API Secret Key is vital. Secondly, you must enter the userID of the Twitter account that you made your developer account with. This is not your user name, this is the ID associated with your username, which can be found at the website I linked in the comments of the code. Next, in the payload variable you need to specific the tweets ID that you want to like. This can be located in your web address by locating the tweet and taking everything after `status\`. Now we can see that this code requests a token using your entered API key and API Secret Key. There will be web address that displays in the terminal that you must copy and past into your browser. You will be prompted by a display to allow your created app access. A pin number will then be displayed, which will need to be copied and pasted back into your terminal window to authenticate. You have then granted access and the request is made and then saved, ultimately liking the specified tweet. I have attached a screenshot below of the output of this code, showing that “liked” is now true. I tested this on a tweet from someone I know to ensure the right tweet was liked and in this case, it was.
@@ -32,3 +32,62 @@ Another application that we can use Twitters API for is to pull a list of tweets
 
 
 ![Terminal Output for Jeff Bezos](https://user-images.githubusercontent.com/74614080/134730627-31a05dc8-ba6e-44e2-9261-dfc8d3dbbcd4.png)
+
+
+# EC_601_Project2b
+
+## Claritin Sentiment Analysis Model
+To start I first needed to create a Google Cloud project and enable AutoML Natural Language. It is important to create this project as it is the place where I will be doing all of my training and testing for this project. Next I needed to enable the Cloud AutoML and Storage APIs that I am going to be using. Once this is done we can begin to test out a project. The first approach that I wanted to explore was sentiment analysis. I took an open source dataset from Kaggle with the plan of using it for a sentiment analysis of tweets about medicine, but more specifically, Claritin. Now that I have the dataset, I need to import it into the project to use for my model. The screenshot below shows the dataset after import **(1)** and we can see the number of items, how many of these items were scored, along with the number of items for training, validation and testing. We can also see the sentiment score that was assigned. I set the max sentiment score in this case to be 4, which is why we see scoring on the left side from 0-4. I then was able to train my model using this dataset and simply clicked the Train tab at the top of the window **(1)**. The model took several hours to train, but this was expected. Once training was complete, I was able to use this model to analyze either other documents, or just snippets of text and get a sentiment analysis score. In addition to this model, I received a precision percentage along with a confusion matrix **(2)**, that shows how often the trained model correctly classified each label (shown in blue) and which labels were confused (shown in grey). The first test I ran you can see in the screenshot below **(3)**, I tested this model by typing in “Claritin will help me feel better” as input text and clicked predict. As expected we got a high sentiment score of 3. I then ran another test saying that “Claritin does not help me at all” and received a score of 2. This is simply telling us that the trained model we are using is correctly predicting sentiment on our inputs. Looking back on this model, I would’ve liked the classification to be a bit more accurate and maybe even classify my second input as 1. As a whole, the model is accurate though and this test was a success.
+
+
+I have also included above `predict.py`, `request_text.json` and `request_GCS.json` which give us the ability to use this custom model. To use this model in a REST API, `request_text.json` is available for text input, while `request_GCS.json` is available for a GCS file. On the other hand, `predict.py` gives us the ability to run a program in our terminal and predict the sentiment.
+
+
+
+### Imported Dataset
+- [Claritin Sentiment Scoring](https://www.kaggle.com/ranja7/nlp-sentiment-scoring-noheaderlabel)
+
+### DataSet Upload (1)
+![DataSet Upload](https://user-images.githubusercontent.com/74614080/135013905-c5ae4bc2-cae9-4225-8aba-c53b9b6139ae.png)
+
+### After Training (2)
+![Pie Chart](https://user-images.githubusercontent.com/74614080/135115100-ee994f70-7606-4540-b535-e71171cf09ee.png)
+![Confusion Matrix](https://user-images.githubusercontent.com/74614080/135115102-3403c2f9-f0d8-4303-9376-a4c6a081454b.png)
+
+### Input Sentiment Analysis (3)
+![Given Text](https://user-images.githubusercontent.com/74614080/135115103-62c745eb-81fa-443e-84dd-565846568f30.png)
+
+![Analysis Score](https://user-images.githubusercontent.com/74614080/135115104-e6d5996a-7063-4ac8-b814-bcf61dee4e97.png)
+
+------
+## IMDB Movie Review Sentiment Analysis Model
+While still looking at sentiment analysis, I wanted to test something different this time. To do this, I again needed to create a Google Cloud Project and specify the type of model I wanted to create. For this test using Google NLP APIs, I picked a different dataset that contained movie reviews with all movie reviews being over 200 words each. Additionally, this dataset is roughly 10x the size of my first dataset used and only ranges from 0-1 on the sentiment scale. I was extremely curious to see how this analysis compared to my first and what kind of insights the NLP API could give me. The uploading of this dataset took much longer as well and the screenshot of the finished upload is below **(1)**. After the upload was complete, I again needed to train my model. When the training tab is selected we can see the breakdown of training, validation and testing for each sentiment score **(2)**. I then clicked start training and let my model begin to build. This took about 5 hours to complete but once finished, I could now use my custom model to predict the sentiment of any statement I made. We can see that after training **(3)**, we are getting a much better precision rate in this model compared to our first. Additionally we can see in the confusion matrix that we have a much higher percentage in blue compared to grey. This translates to a much better predictive model. Moving on to testing, I decided to pull a movie review from Rotten Tomatoes as our input text **(4)**. I took a quote from top approved critic Nicolas Delgadillo on the 2018 film Jurassic World, which received a 48% audience score. We can make the assumption that the sentiment is not great for this movie but let us test our trained model to see if that is the case. As we expected, the predicted score is 0, a great sign that our model is working **(5)**. Let’s now test a movie with a higher rating and see if we can get a correctly predicted score again. This time I chose Incredibles 2 and another review written by Nicolas Delgadillo. This movie received an 84% audience score and should give us a good sentiment score as well. We can see the quote I used **(6)** along with the correctly predicted sentiment score of 1, based on our input **(7)**. We can see based on just these two examples, just how accurate our custom model is in this case. 
+
+Again we can use `predict.py` and `request.json` to use this custom model outside of the web browser. 
+
+
+### Imported Dataset
+- [IMDB Sentiment of Reviews](https://www.kaggle.com/columbine/imdb-dataset-sentiment-analysis-in-csv-format)
+
+### DataSet Upload (1)
+![Data Upload](https://user-images.githubusercontent.com/74614080/135138246-38850afa-5c9e-4347-8478-36e3e3473955.png)
+
+### Training (2)
+![Training Screen](https://user-images.githubusercontent.com/74614080/135138352-c482ec75-13c7-4199-9326-2ff8c0e5163d.png)
+
+
+### After Training (3)
+![Pie Chart](https://user-images.githubusercontent.com/74614080/135175600-3ac56378-17fd-4f12-a5c5-19a23acc411a.png)
+![Confusion Matrix](https://user-images.githubusercontent.com/74614080/135175624-2233ecda-a71b-453f-b4fd-053dc361ee14.png)
+
+
+### First Input Sentiment Analysis (4)
+- [Jurassic World Film Review](https://discussingfilm.net/2018/06/22/jurassic-world-fallen-kingdom-plot-and-character-take-a-backseat-to-cheap-thrills/)
+
+![Jurassic World Score](https://user-images.githubusercontent.com/74614080/135175760-f01c179e-adfd-417e-983a-0461e157c14f.png)
+
+
+### Second Input Sentiment Analysis (5)
+- [Incredibles 2 Film Review](https://discussingfilm.net/2018/06/15/incredibles-2-still-super-after-all-these-years/)
+
+![Incredibles Score](https://user-images.githubusercontent.com/74614080/135175844-39fee7c6-18b9-467b-8a9b-30b95a2d00be.png)
