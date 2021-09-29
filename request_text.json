@@ -1,0 +1,8 @@
+{
+  "payload": {
+    "textSnippet": {
+      "content": "YOUR_SOURCE_CONTENT",
+      "mime_type": "text/plain"
+    }
+  }
+}
