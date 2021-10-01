@@ -91,3 +91,11 @@ Again we can use `predict.py` and `request.json` to use this custom model outsid
 - [Incredibles 2 Film Review](https://discussingfilm.net/2018/06/15/incredibles-2-still-super-after-all-these-years/)
 
 ![Incredibles Score](https://user-images.githubusercontent.com/74614080/135175844-39fee7c6-18b9-467b-8a9b-30b95a2d00be.png)
+
+
+## User Stories
+- As a better, I want to see the sentiment around a specific NFL game.
+- As a better, I want to see what people are saying about the lines on and NFL game.
+- As a better, I want to see who is injured for a specific team.
+- As an oddsmaker, I want to see who is injured for a specific team
+- As an oddsmaker, I want to see how people are reacting to the odds put out on an NFL game.
