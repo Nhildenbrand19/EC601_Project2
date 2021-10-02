@@ -92,7 +92,7 @@ Again we can use `predict.py` and `request.json` to use this custom model outsid
 
 ![Incredibles Score](https://user-images.githubusercontent.com/74614080/135175844-39fee7c6-18b9-467b-8a9b-30b95a2d00be.png)
 
-#EC_601_Project2
+# EC_601_Project2
 ## Product Definition
 The goal of this project is too create a simple sentiment analyzer regarding sports betting using the Twitter API demonstrated in the first part of this project. I want users to be able to use this product from two different perspectives. First, from the oddsmakers perspective, to analyze how people are feeling not only about upcoming games, but past games as well. There is alot that goes into creating odds and lines for sports games and this is just one component. Secondly, I want bettors to be able to see sentiment around games they are considering betting on. It will give them a better sense of how the public is feeling and may help push them one way or another in regards to their decisions.  
 
