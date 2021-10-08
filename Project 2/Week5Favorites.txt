@@ -1,0 +1,14 @@
+The favorite based on power rankings in Rams vs Seahawks -> Rams
+The favorite based on power rankings in Jets vs Falcons -> Falcons
+The favorite based on power rankings in Lions vs Vikings -> Vikings
+The favorite based on power rankings in Eagles vs Panthers -> Panthers
+The favorite based on power rankings in Packers vs Bengals -> Packers
+The favorite based on power rankings in Saints vs Washington -> Saints
+The favorite based on power rankings in Titans vs Jaguars -> Titans
+The favorite based on power rankings in Dolphins vs Buccaneers -> Buccaneers
+The favorite based on power rankings in Patriots vs Texans -> Patriots
+The favorite based on power rankings in Broncos vs Steelers -> Broncos
+The favorite based on power rankings in Bears vs Raiders -> Raiders
+The favorite based on power rankings in Browns vs Chargers -> Chargers
+The favorite based on power rankings in Bills vs Chiefs -> Bills
+The favorite based on power rankings in Colts vs Ravens -> Ravens
