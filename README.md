@@ -94,11 +94,14 @@ Again we can use `predict.py` and `request.json` to use this custom model outsid
 
 # EC_601_Project2
 ## Product Definition
-The goal of this project is too create a simple sentiment analyzer regarding sports betting using the Twitter API demonstrated in the first part of this project. I want users to be able to use this product from two different perspectives. First, from the oddsmakers perspective, to analyze how people are feeling not only about upcoming games, but past games as well. There is alot that goes into creating odds and lines for sports games and this is just one component. Secondly, I want bettors to be able to see sentiment around games they are considering betting on. It will give them a better sense of how the public is feeling and may help push them one way or another in regards to their decisions.  
+The goal of this project is too create both a simple sentiment analyzer regarding NFL games for each week using the Twitter API demonstrated in the first part of this project. This product will be able to be ran and output a text file that gives the favorites for each game based on power rankings each week. This can be used from both a fan perspective and a betting perspective. From a fan perspective, you can see if your team is favorited each and every week and from a betting perspective you can do the same, only using this information to decide what games to bet on. 
 
 ## User Stories
-- As a better, I want to see the sentiment around a specific NFL game.
-- As a better, I want to see what people are saying about the lines on and NFL game.
-- As a better, I want to see who is injured for a specific team.
-- As an oddsmaker, I want to see who is injured for a specific team
-- As an oddsmaker, I want to see how people are reacting to the odds put out on an NFL game.
+- As a better, I want to see the predicted outcome around a specific NFL game.
+- As a fan, I want to see if my team is the favorite this week.
+- As a better, I want to use this information to help better make a decision on each game.
+- As a fan, I want to be able to see how my is stacking up against the rest of the league based on evolving power rankings.
+
+
+## The Product
+
