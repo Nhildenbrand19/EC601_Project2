@@ -7,9 +7,9 @@ import json
 # To set your enviornment variables in your terminal run the following line:
 # export 'CONSUMER_KEY'='<your_consumer_key>'
 # export 'CONSUMER_SECRET'='<your_consumer_secret>'
-
-consumer_key = "Enter Consumer Key"
-consumer_secret = "Enter Consumer Secret Key"
+def ConsumerKey(self):
+    consumer_key = "Enter Consumer Key"
+    consumer_secret = "Enter Consumer Secret Key"
 
 # You can adjust ids to include a single Tweets
 # Or you can add to up to 100 comma-separated IDs
